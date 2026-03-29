@@ -1,1 +1,9 @@
-https://github.com/Dipakkhaire23/simple-interest-calculator.git
+curl https://api.github.com/repos/Dipakkhaire23/github-final-project
+
+{
+  "full_name": "Dipakkhaire23/github-final-project",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}

@@ -1,1 +1,20 @@
-curl https://api.github.com/repos/Dipakkhaire23/simple-interest-calculator/pulls
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+  {
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+    "id": 123456,
+    "state": "closed",
+    "title": "Fix typo in README",
+    "user": {
+      "login": "Dipakkhaire23"
+    },
+    "head": {
+      "label": "Dipakkhaire23:bug-fix-typo"
+    },
+    "base": {
+      "label": "ibm-developer-skills-network:main"
+    },
+    "merged": true
+  }
+]
